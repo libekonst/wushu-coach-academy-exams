@@ -1,782 +1,782 @@
 {
   "title": "Εργοφυσιολογία",
-  "id": "b3433f73-d4be-41db-b5f0-b268c66fe19a",
+  "id": "4afc3dca-c78e-4356-b20b-fc7034fbfe69",
   "questions": [
     {
-      "id": "acca4d80-0ea3-484d-b026-dd5b97db142d",
+      "id": "dd7c1bbe-7dfc-49fe-a1cf-ce8b8eb98b4b",
       "text": "1) Η μικρότερη λειτουργική μονάδα του μυός είναι:",
       "options": [
         {
-          "id": "5c5b788d-2c95-41a0-a4de-d4d1b1a75c44",
+          "id": "b41c0173-0245-4a09-a7b5-688f4ec69d9a",
           "text": "Πυρήνας",
           "isCorrect": false
         },
         {
-          "id": "81e52ead-3701-4688-8b9e-28ae50fc0331",
+          "id": "8a69344d-4bb1-4965-a34b-cf5a9c0cea13",
           "text": "Σαρκόπλασμα",
           "isCorrect": false
         },
         {
-          "id": "80693e66-4232-48ab-b600-4d5e4d6f35be",
+          "id": "e13947e1-2021-4211-93c0-139d49f84966",
           "text": "Σαρκομέριο",
           "isCorrect": true
         },
         {
-          "id": "490b2633-e145-4935-b976-6ff35cc3ecde",
+          "id": "74e3bae9-a846-4b3a-a133-362d13edc99f",
           "text": "Μυοϊνίδιο",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "17e24ac2-1779-47af-a02c-f872840be607",
+      "id": "43814ef5-c314-4786-b7ae-375383c6119b",
       "text": "2) Κατά την μυϊκή συστολή, το ενεργειακό νόμισμα που είναι απαραίτητο για την κίνηση είναι:",
       "options": [
         {
-          "id": "69e6c9f8-d664-414d-8a97-2f1277ebdc2a",
+          "id": "74f7168c-9fba-4523-a2ab-b7c5704b46f5",
           "text": "ATP",
           "isCorrect": true
         },
         {
-          "id": "0a0d69e9-553f-4bb4-af1c-13f2c6644d9e",
+          "id": "44dfdce2-d327-44dc-87a7-de2ebc9ece48",
           "text": "Ιόντα ασβεστίου",
           "isCorrect": false
         },
         {
-          "id": "8144959d-7954-4211-bf7b-279dbfa72dfd",
+          "id": "61f10d6a-5390-4db0-9d18-89385573b767",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "598b67ba-d88e-4f61-acf9-c466ab3a44d6",
+          "id": "86e09aab-011a-49a9-a2db-dfd8bfbc611e",
           "text": "Γλυκογόνο",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "650dfdb5-53f7-4a3b-8f88-f487ac372399",
+      "id": "4dd150e7-9c5c-4ebc-8f1b-5d549a79597c",
       "text": "3) Σε τι διαφέρουν οι μυϊκές ίνες Τύπου Ι από εκείνες του Τύπου ΙΙ:",
       "options": [
         {
-          "id": "ffd7336b-ad82-42c8-b355-e103bc3bbd55",
+          "id": "30f18c12-471c-4569-957d-56e0c5667a88",
           "text": "Ταχύτητα συστολής",
           "isCorrect": false
         },
         {
-          "id": "7fd3376e-064c-45c0-af46-eb1363a3dcea",
+          "id": "ae86d966-0a81-4f24-8b39-ad88b63deb10",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "311cd976-beab-45bb-baae-2eabc776815a",
+          "id": "3b761834-aced-421f-95d1-6937189ac9cb",
           "text": "Αντοχή στην κόπωση",
           "isCorrect": false
         },
         {
-          "id": "47f253cf-6d23-4cab-80d7-8356186a9bb2",
+          "id": "222dcd46-33f5-40c1-9ced-fcea93040f4a",
           "text": "Δύναμη της κινητικής μονάδας",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "53bf185e-fb49-41b1-97b2-58b0070421e8",
+      "id": "a4de4eba-282b-48a6-9d39-7a0911c2bb26",
       "text": "4) Για την πραγματοποίηση της κίνησης μιας άρθρωσης είναι απαραίτητη η παρουσία:",
       "options": [
         {
-          "id": "be5ece54-6853-4d05-800f-c7564f7d18cf",
+          "id": "d81d2846-66d2-4478-bde3-cdc480ba11cd",
           "text": "Ανταγωνιστής",
           "isCorrect": false
         },
         {
-          "id": "754c8a4d-5ccb-4d82-b12d-6324c3584ba8",
+          "id": "5d3b99a2-8b34-4140-a032-7ccb4b2b5c6a",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "0314fb19-eccb-4793-930c-6b0c5435ceba",
+          "id": "a739741e-a753-4c20-9f6c-46f406a13c92",
           "text": "Αγωνιστής",
           "isCorrect": false
         },
         {
-          "id": "ced6919e-c41a-4aba-96b3-8c66bf9ea232",
+          "id": "1d64698a-17f6-4f30-b2ac-360004f1d74a",
           "text": "Συνεργός",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "412bf20b-9cfd-44fb-adb0-6a89667ece7f",
+      "id": "fef86fc9-1e6f-47c3-a62b-633322711513",
       "text": "5) Στις μηχανικές ιδιότητες του μυός ανήκει:",
       "options": [
         {
-          "id": "19942b22-11ba-4d64-ba89-e649f8645939",
+          "id": "f15f71ec-12aa-44d9-934b-6655c403847f",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "a2cb826a-6c31-41b4-8759-efafaa37b840",
+          "id": "41a94359-5748-4760-bdd0-3ea61a63a70d",
           "text": "Ταχοδυναμική σχέση",
           "isCorrect": false
         },
         {
-          "id": "f0a2c95d-5032-4350-8eff-c8d6ad64dda4",
+          "id": "d66dbb8f-6242-4aba-94d8-87f9413377c3",
           "text": "Μηκοδυναμική σχέση",
           "isCorrect": false
         },
         {
-          "id": "af611105-e539-46c6-8365-ed682b6057ed",
+          "id": "13d0b3b9-f433-4f1d-abc4-8788e79ecf8d",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "4e33fcb8-74c7-4f57-88fc-3903bdbbb2a1",
+      "id": "34a1b434-d639-48d6-b934-e11175ec520e",
       "text": "6) Κατά τη σύγκεντρη δράση, το μήκος του μυός:",
       "options": [
         {
-          "id": "37230104-e7fe-49d1-bb59-b05875d05e07",
+          "id": "b4bdb280-77e5-4b43-9093-348db727ab3c",
           "text": "Αυξομειώνεται",
           "isCorrect": false
         },
         {
-          "id": "684deb0b-6755-42f9-8296-2038a5655e1f",
+          "id": "75d54657-89d3-4da9-9033-ae1d74b89c81",
           "text": "Αυξάνεται",
           "isCorrect": false
         },
         {
-          "id": "669a8560-ad6e-4163-bb16-54156e715d22",
+          "id": "1cd98043-78ff-4974-a386-e4b0bb78f56e",
           "text": "Παραμένει σταθερό",
           "isCorrect": false
         },
         {
-          "id": "649d4a5b-ee0f-4b58-81c1-5ba704b2ad84",
+          "id": "6e8ac545-aad0-481f-8709-8c83258b993c",
           "text": "Μειώνεται",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "396daa05-1b0b-4e7a-87c2-17964666a9e4",
+      "id": "58f34ded-b243-4086-95f5-6c0740918ea2",
       "text": "7) Η κύρια πηγή ενέργειας κατά την άσκηση μέγιστης έντασης και μικρής διάρκειας παρέχεται από:",
       "options": [
         {
-          "id": "dd34ad76-d87a-47e7-8439-42490b7fd42f",
+          "id": "a572d85f-a0a1-4d5c-8f5c-ebaa4cc19ecc",
           "text": "Υδατάνθρακες",
           "isCorrect": true
         },
         {
-          "id": "8c271fec-67fe-4e32-ad01-34ae1b8fed84",
+          "id": "ee6c1692-690b-4d58-ae0a-407478080102",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": false
         },
         {
-          "id": "b427778e-8790-466a-9c2a-eb635094e23a",
+          "id": "18ede184-44a3-4a5b-b684-76e5e4aba802",
           "text": "Λίπη",
           "isCorrect": false
         },
         {
-          "id": "4b2b47bc-ae50-406a-9e82-263d7d331ee2",
+          "id": "cb8698f7-a16d-48da-a8d5-de54492ced3f",
           "text": "Πρωτείνες",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "1637b83b-30e0-4153-9a23-8fb4e74d011e",
+      "id": "13f6af38-a237-4f67-85fd-bc1e01f63b40",
       "text": "8) Στα μεταβολικά παραπροϊόντα ανήκει:",
       "options": [
         {
-          "id": "9f9953b5-4864-4967-9a89-a784da4fc8fc",
+          "id": "b46dfcca-9dd3-4a5d-8793-9585b4064d0f",
           "text": "Το ATP",
           "isCorrect": false
         },
         {
-          "id": "4b8ef876-af0d-48be-8ed8-62a96fc09450",
+          "id": "f4a07207-d49c-468e-94ab-494d6eaec155",
           "text": "Το γαλακτικό",
           "isCorrect": false
         },
         {
-          "id": "32ac15c8-65dc-4f9c-8144-6a083b4a2503",
+          "id": "73515dce-70a7-46af-9e0a-8504fedbde4d",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "3a378f5e-d32f-4d6f-b58b-c1ce8b1877ad",
+          "id": "06610707-0b56-4e2e-98f7-635899faf587",
           "text": "Τα ιόντα υδρογόνου (Η+)",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "6fa33f86-f968-43a3-ba45-366c6e6c186a",
+      "id": "c2fa40ce-03e7-4741-a86a-dea69fb70ee6",
       "text": "9) Στις πηγές ενέργειας του οργανισμού ανήκει:",
       "options": [
         {
-          "id": "57db4997-98ae-427b-9bd3-4a6655a9e0a8",
+          "id": "d76a8e6b-8a82-4887-b144-d6815ff50780",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "0b5eaff5-1135-4127-a475-83bc45c1fd68",
+          "id": "3e0f22e2-761a-477b-bb55-817d56122396",
           "text": "Λίπη",
           "isCorrect": false
         },
         {
-          "id": "44134ada-227c-4434-99a7-bfcf299355fb",
+          "id": "d2436758-821b-46a6-8eff-02a4d392b6f3",
           "text": "Πρωτεΐνες",
           "isCorrect": false
         },
         {
-          "id": "90c9233b-db6f-4ed3-8be6-4d9a054b380d",
+          "id": "c99d7794-a1c4-452e-b6dd-8b6bd8b13150",
           "text": "Υδατάνθρακες",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "9b510756-1868-48c6-b081-00b15327a895",
+      "id": "b465b1fb-58fa-454b-b1ed-e001a1f44f5f",
       "text": "10) Στον αναερόβιο μεταβολισμό ανήκει το σύστημα:",
       "options": [
         {
-          "id": "af2e507a-dc88-40f4-b680-c82577a1adc6",
+          "id": "173dfc4b-9ae9-4555-84a0-7dd23faa08c4",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "f4df322c-4879-4651-bb06-795f9ebbcc28",
+          "id": "44879847-b8ee-473c-af21-6b48b0e4fefe",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "83328a51-eb2e-4a39-b8a2-fead89ea3eea",
+          "id": "896f8035-46ec-4c56-958f-ff4812971ca1",
           "text": "ATP-PCr",
           "isCorrect": false
         },
         {
-          "id": "6a0c50fc-3c20-4f40-b76c-2df51b6074da",
+          "id": "2dfb9418-c24d-4333-828f-4a6087bf221e",
           "text": "Γλυκόλυση",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "7335c2f0-e73f-4121-8073-d1f6379135fe",
+      "id": "ab56e054-91b2-48e8-a6c2-e93de70ceea6",
       "text": "11) Η αναερόβια ικανότητα επηρεάζεται από:",
       "options": [
         {
-          "id": "6064c988-c2d5-4fcd-9a9e-2d2d68dee45c",
+          "id": "50533c5a-a40e-489c-aeb6-88bf6498b374",
           "text": "Το επίπεδο της θάλασσας",
           "isCorrect": false
         },
         {
-          "id": "b93b40ab-4a10-4818-b098-bfeba6cf8b0c",
+          "id": "8152b043-d6c9-4f73-8d1c-a981be8a3283",
           "text": "Την ηλικία",
           "isCorrect": false
         },
         {
-          "id": "da8d0646-c196-40d4-8345-afd73b3f368c",
+          "id": "4e50ca88-7302-47b5-8180-5f69099f8681",
           "text": "Το φύλο",
           "isCorrect": false
         },
         {
-          "id": "433b01e6-fb78-45f5-add6-1f00af313323",
+          "id": "ab8e3ebb-44d1-4e5e-adb1-8ae344220e83",
           "text": "Το φύλο και την ηλικία",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "5135310a-edc4-4211-bcac-1109869573e5",
+      "id": "27252d19-428c-4cdf-b76e-b35195e81576",
       "text": "12) Ο αναερόβιος μηχανισμός παραγωγής ενέργειας είναι:",
       "options": [
         {
-          "id": "4f8feacd-6144-489a-920c-b0728577a4cd",
+          "id": "d47bf7f1-9b20-4686-86df-897e171332e0",
           "text": "Υψηλής ισχύος",
           "isCorrect": false
         },
         {
-          "id": "0fd65343-888b-4799-a72b-b2566f9a4266",
+          "id": "d9dea97b-c1df-48a9-9a02-0bf2577ab6be",
           "text": "Μεγάλης διάρκειας",
           "isCorrect": false
         },
         {
-          "id": "a288a898-31cc-4456-9bfd-e6e5de8d546c",
+          "id": "9f0af624-9303-42a0-8ac1-1d848bc3ea22",
           "text": "Μικρής διάρκειας και υψηλής ισχύος",
           "isCorrect": true
         },
         {
-          "id": "c31f1b93-2efd-4ca3-8b11-ed2dd3e2fb60",
+          "id": "5ef5e925-0b05-4ff7-943f-51b0f62514b4",
           "text": "Μικρής διάρκειας",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "5ab81cea-c59c-4066-8a2a-a7d0950aeee1",
+      "id": "5a10f05c-b5b2-4a66-b4f6-8b29fdb2522e",
       "text": "13) Η αερόβια ικανότητα:",
       "options": [
         {
-          "id": "ea5fd5c3-3109-4224-ab31-e47f33b26f66",
+          "id": "d01e03be-6585-4c7e-9866-b4bfde240b2d",
           "text": "Εξαρτάται από την πρόσληψη ή κατανάλωση οξυγόνου από τα κύτταρα",
           "isCorrect": false
         },
         {
-          "id": "47896dbb-47d3-42f1-85a2-9f8013c41ed1",
+          "id": "5ef52835-b106-4916-9d5e-c0119488a62a",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "d047409f-050a-442d-ac19-0d6390ec9637",
+          "id": "8534afff-3b48-4109-b9b0-e578820d2539",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "31b5d8b5-be51-4677-b538-70b7e033e08d",
+          "id": "23d75c96-895f-40f6-b693-3e4aeb62ada8",
           "text": "Αυξάνεται ανάλογα με την ένταση της μυϊκής προσπάθειας",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "6f837d39-f7f4-4df6-96d6-c84e8509a4c9",
+      "id": "baa1afcb-4a7e-4f2a-b9f7-5e784485cf38",
       "text": "14) Η οξείδωση του λίπους σε σχέση με την οξείδωση των υδατανθράκων απαιτεί:",
       "options": [
         {
-          "id": "04739653-b5ad-4bc2-b3a3-f9e53a465705",
+          "id": "08d729c9-cac3-4399-b239-d8b7383e1e69",
           "text": "Λιγότερο οξυγόνο",
           "isCorrect": false
         },
         {
-          "id": "e6c92864-b984-42ef-973a-aae2f6e5dd7e",
+          "id": "efb6d2e5-1ea4-4354-bc99-f8f0954363d6",
           "text": "Περισσότερο οξυγόνο",
           "isCorrect": true
         },
         {
-          "id": "0713c362-34a2-425b-9e30-db7605c118aa",
+          "id": "4c3286b3-b683-4dbb-8ad8-328c1b04002c",
           "text": "Ίση ποσότητα οξυγόνου",
           "isCorrect": false
         },
         {
-          "id": "f09bc627-29ea-42ab-b918-5e95bfb91d65",
+          "id": "38606995-d705-4301-bde0-f780b1d483d7",
           "text": "Δεν απαιτείται η παρουσία οξυγόνου",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "93717fac-6090-4e56-894b-a6544dc2c2b2",
+      "id": "b41136b0-5c9b-47f7-88cd-906c41959df2",
       "text": "15) Η οξείδωση των υδατανθράκων περιλαμβάνει:",
       "options": [
         {
-          "id": "67b2eb93-9de5-4e89-a4d7-7c8b9866abec",
+          "id": "0666a9f5-caa2-40e8-8e90-f52c1d28f739",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "d06b5930-19b7-4d3f-be0e-e3edab2e3e67",
+          "id": "a5ab17df-4b48-47fd-92d9-351680715da9",
           "text": "Την αναπνευστική αλυσίδα",
           "isCorrect": false
         },
         {
-          "id": "79bfaae9-2633-4509-9037-d2e4cd50f233",
+          "id": "cc2195d4-24b4-476f-9f47-968413ce3bb9",
           "text": "Τη γλυκόλυση",
           "isCorrect": false
         },
         {
-          "id": "accb61b5-5002-4183-a1b9-d5b5eef64dad",
+          "id": "03317793-083a-404e-bc95-bcc4a4ccac1d",
           "text": "Τον κύκλο του Krebs",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "6f63f322-8c03-4fb2-9851-146faeeefd4c",
+      "id": "79e464ba-9888-405e-af15-38963d08b51b",
       "text": "16) Το χρέος του οξυγόνου:",
       "options": [
         {
-          "id": "70078493-5f19-4054-b0cd-072bb6d3feb5",
+          "id": "820f4909-c4e0-477a-a262-59eda59b726f",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "4df5c19e-ae62-4933-8b9e-ed6a27661145",
+          "id": "230973b7-38e4-4f7c-a73d-510caf2a22b4",
           "text": "Προηγείται του ελλείματος οξυγόνου",
           "isCorrect": false
         },
         {
-          "id": "b336d28e-0d76-48fa-96cb-3d179409b7ca",
+          "id": "f84982e9-eae5-47df-8d9d-8b3a5ec14312",
           "text": "Έπεται της άσκησης",
           "isCorrect": true
         },
         {
-          "id": "5316ebc0-3593-4c50-981d-e47a3af098ad",
+          "id": "17fb7d9a-5ec2-412d-9d6f-7f1d27a2c911",
           "text": "Προηγείται της άσκησης",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "557a6635-b0bd-4bab-9cfc-1a6628c563f8",
+      "id": "4932bc46-14a9-41fc-b718-c7cb00e15ec4",
       "text": "17) Το έλλειμα οξυγόνου αντιπροσωπεύει:",
       "options": [
         {
-          "id": "5075b9cf-a1b6-430e-a1ad-9c553792cba3",
+          "id": "73758dc9-1fe5-45c1-82de-86d2459a1e8e",
           "text": "Την παραγωγή ενέργειας από το σύστημα αναερόβιας γλυκόλυσης",
           "isCorrect": false
         },
         {
-          "id": "9dde1add-2e7c-438d-ade3-f21a6f24f898",
+          "id": "1cc837be-f0c9-4bc4-b3f8-840dcf6313c4",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "38802dab-4b93-4e57-8bb7-a4c18f9d6811",
+          "id": "2f1f43bc-6c1f-46f8-bd7b-81843746f713",
           "text": "Την παραγωγή ενέργειας από το σύστημα PCr",
           "isCorrect": false
         },
         {
-          "id": "8d745ec0-bd5a-4649-97c7-2ebe4873ba36",
+          "id": "890a176f-b849-44cb-a58e-fa6289e0608e",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "0127a0cb-6e8f-4478-b637-4ca20c97200b",
+      "id": "13ecb129-154c-4b98-865c-661685254933",
       "text": "18) Η φάση σταθεροποίησης (ισοστάθμιση οξυγόνου):",
       "options": [
         {
-          "id": "113e95e9-1346-4492-8082-34a0117ddd98",
+          "id": "4681e1db-0e16-47e8-9ac1-08988ab0286c",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "ed4a91b0-c167-41b0-a241-dd9999bea9e5",
+          "id": "322ed4d8-79e4-47ec-818c-d9c5126dabfd",
           "text": "Επιτυγχάνεται πάντα",
           "isCorrect": false
         },
         {
-          "id": "a0deb64b-b523-406e-8b79-d3729b952485",
+          "id": "14550c63-f36e-44be-bed0-d7c7b7ff5520",
           "text": "Εντοπίζεται όταν η ένταση της άσκησης είναι υψηλή",
           "isCorrect": false
         },
         {
-          "id": "a438bd54-a157-4b4b-8877-40365f370a64",
+          "id": "67621133-aaa6-4c94-844c-505f1deec4a1",
           "text": "Εντοπίζεται όταν η ένταση της άσκησης είναι χαμηλή - μέτρια",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "c71739a9-526a-45c6-8956-fe3f7eda7ba4",
+      "id": "0fcedd14-8341-4c82-9c69-d1805aaac783",
       "text": "19) Η καρδιακή απόκριση κατά την άσκηση περιλαμβάνει:",
       "options": [
         {
-          "id": "10f3a9ea-14e9-4277-a097-af078d0e86a0",
+          "id": "44eb1651-a7ce-4606-b50c-a4081e51a98b",
           "text": "Χρησιμοποιούνται περισσότερες θρεπτικές ουσίες",
           "isCorrect": false
         },
         {
-          "id": "467585d7-6ea7-4551-b2e3-c2e5459cd6cf",
+          "id": "3164159d-3209-4fc2-9939-0d5facb98f5b",
           "text": "Δημιουργούνται περισσότερα απόβλητα",
           "isCorrect": false
         },
         {
-          "id": "fac12a94-4ab7-4c93-804b-fec10313d695",
+          "id": "d40dd1fd-e344-4e7a-bad5-5b851a570f29",
           "text": "Η ζήτηση οξυγόνου στους ενεργούς μύες αυξάνεται",
           "isCorrect": false
         },
         {
-          "id": "5e0d9b5c-20d9-4ed1-9209-2d839cc74fe0",
+          "id": "1fb6fd1b-e394-44b5-8c14-ab3f704838a6",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "e0a5f49c-aa37-441b-947a-c6aa2d6f3119",
+      "id": "d2b2159f-c069-4352-8296-24d72cd3ed2f",
       "text": "20) Η καρδιακή παροχή εξαρτάται από:",
       "options": [
         {
-          "id": "609c23aa-abe0-48c4-9216-f5a45b1bcb05",
+          "id": "12e63d6b-524c-4f40-9fd7-7194bc486725",
           "text": "Την καρδιακή συχνότητα",
           "isCorrect": false
         },
         {
-          "id": "af3fe8a6-7de7-48a0-9e08-cdab84645e0e",
+          "id": "d20dc23e-d993-4c4c-8702-0b6faa1740a1",
           "text": "Τον όγκο παλμού",
           "isCorrect": false
         },
         {
-          "id": "ac05e5c5-ffb8-4153-8335-ceed0ef52863",
+          "id": "22f1387d-00d5-4c42-9e61-29f46811924b",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "70c7c728-d855-412e-952c-0ae24f8c542d",
+          "id": "f9ebed48-2d05-4466-966d-b0220d7584b0",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "5eded153-765e-401f-8cfe-1fe31c0a8289",
+      "id": "8a3dadf2-83d6-42af-88dd-b7c13be97e36",
       "text": "21) Η αρτηριακή πίεση:",
       "options": [
         {
-          "id": "3c873bae-7532-4839-9173-0aa307915833",
+          "id": "612af5cf-83c2-454d-bd60-36948dee8989",
           "text": "Χωρίζεται σε συστολική και διαστολική αρτηριακή πίεση",
           "isCorrect": true
         },
         {
-          "id": "23de0bc6-74e2-4c5d-b31d-335b23e90957",
+          "id": "37f53037-a06b-408e-a4ce-2bca8581054e",
           "text": "Η συστολική πίεση κατά την άσκηση φυσιολογικά μειώνεται",
           "isCorrect": false
         },
         {
-          "id": "eaa49cdd-8795-4ea0-afac-7085cb39cb5b",
+          "id": "8e9d47f0-a09d-495e-876b-d680bd238dc6",
           "text": "Η διαστολική πίεση αλλάζει πολύ κατά την άσκηση",
           "isCorrect": false
         },
         {
-          "id": "26ae2d00-c585-446b-94c1-ccfd8729eed8",
+          "id": "e57c3c7c-638d-4272-ac2b-34c59cdc16ba",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "3f37e01c-d583-46b3-af0c-6fb7ab140314",
+      "id": "f41ddb3f-0d44-4b9e-ad34-75d05c34d536",
       "text": "22) Η αναερόβια άσκηση:",
       "options": [
         {
-          "id": "57d7d56d-ea8d-4aba-88a2-83d7b3c2a828",
+          "id": "734de6e2-e84d-412e-9c23-0573a53c9b64",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": false
         },
         {
-          "id": "a7303679-ee6f-4fb0-9694-d88636a0589a",
+          "id": "9d777a05-3c3b-4202-a157-ae9a0012bea0",
           "text": "Μειώνει το σύστημα ATP-PCr",
           "isCorrect": false
         },
         {
-          "id": "35152600-cb91-49d0-a28d-2a4fa8302db9",
+          "id": "5fffd158-a013-4384-b24d-10d92ea3786f",
           "text": "Μετατοπίζει το γαλακτικό κατώφλι προς τα δεξιά",
           "isCorrect": true
         },
         {
-          "id": "dd43e108-2cbf-4cf9-86ff-69b0b3a48cb4",
+          "id": "77a62f1a-4e17-4752-9a14-3518a83ce876",
           "text": "Μειώνει την ικανότητα εξουδετέρωσης των μυών",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "9a651912-2264-4621-8bbc-49c0c76610ef",
+      "id": "c26d403d-9176-421f-a754-be9fffcdf420",
       "text": "23) Τα οφέλη στη δύναμη τις 2 πρώτες εβδομάδες προπόνησης, οφείλονται:",
       "options": [
         {
-          "id": "75f25b6a-1685-487f-9a0b-c37834f9f86b",
+          "id": "7b4ce0d9-4436-4abf-8b57-d9519f8781ca",
           "text": "Σε νευρικούς παράγοντες",
           "isCorrect": true
         },
         {
-          "id": "fe1a46e6-0a5d-4f87-add1-b73ce62cf835",
+          "id": "1188a83e-8536-471c-b976-e8cf5a610523",
           "text": "Στην υπερτροφία των μυών",
           "isCorrect": false
         },
         {
-          "id": "a62969ed-efd1-4dc7-a495-bff1e4454389",
+          "id": "b33c68b1-7aee-4713-a99d-dca7a9f4b4c8",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": false
         },
         {
-          "id": "0445ca4b-f0bd-4d8e-9d79-fe150fae3e23",
+          "id": "681672f7-de05-4675-8665-e43b27bc642f",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "8e042426-5218-4ab2-8a3a-1f9320726610",
+      "id": "b2c646cb-cbe2-4a2f-be4d-a9470b6f48da",
       "text": "24) Η αερόβια άσκηση επηρεάζει:",
       "options": [
         {
-          "id": "6f131d94-50c1-4842-8886-930eca6d88ae",
+          "id": "d0c296f9-132f-40ea-a2ed-788e916ca529",
           "text": "Τον όγκο παλμού",
           "isCorrect": false
         },
         {
-          "id": "2cc13dbf-9f5c-41a0-aaf4-4d6c6ddf6efa",
+          "id": "775addc6-1da4-483b-b296-69043ba16435",
           "text": "Την καρδιακή συχνότητα και την πίεση του αίματος",
           "isCorrect": false
         },
         {
-          "id": "89488fe4-0586-4721-8ea5-83f94ebe27ce",
+          "id": "57efe520-28b1-43a3-b945-6e6b909200aa",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "3a9f579e-0f9d-49a7-ae69-7884e87551d8",
+          "id": "b18f92bf-f045-44e5-9018-af1b368719ae",
           "text": "Το μέγεθος της καρδιάς",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "ff50dcc9-8e4b-4102-bec8-b6c2827c9766",
+      "id": "00433911-3e8e-4d53-b162-fba5e01cea2c",
       "text": "25) Οι κίνδυνοι της άσκησης σε θερμό περιβάλλον είναι:",
       "options": [
         {
-          "id": "eefb0dba-acc4-4544-8efc-d776e5068343",
+          "id": "2df36301-7988-4766-8033-3c885e3c8229",
           "text": "Θερμική εξάντληση",
           "isCorrect": false
         },
         {
-          "id": "249881b4-0c43-47d9-83e7-b26fc39c63c5",
+          "id": "1f8ec056-9632-4c27-9691-60ce461d6194",
           "text": "Θερμικές κράμπες",
           "isCorrect": false
         },
         {
-          "id": "0131d146-696f-4c63-be13-110262f5dd32",
+          "id": "6b6732b5-0be3-4475-80b8-d159526372f9",
           "text": "Θερμοπληξία",
           "isCorrect": false
         },
         {
-          "id": "3a9d2f51-fb8f-479f-a0ef-101114c0b1e5",
+          "id": "72414eba-7ef5-45ca-a8f6-aa689eaca8d6",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "b16cb789-1aad-4a67-b3ab-5f8c88c75ebc",
+      "id": "2fdbf042-bd5c-47dc-b7e1-4d1a3d2f078a",
       "text": "26) Ο υψηλός ρυθμός εφίδρωσης:",
       "options": [
         {
-          "id": "6ce76451-5a3b-45d7-8650-cb35ddb35b51",
+          "id": "c35bfac7-eb69-4315-a41c-159cd0bc40bd",
           "text": "Δεν επηρεάζει τον όγκο αίματος",
           "isCorrect": false
         },
         {
-          "id": "e9576152-ff14-4b45-ad11-94a3a8185381",
+          "id": "6d4de29e-125c-4ec3-b5e7-9138f8e58229",
           "text": "Μειώνει τον όγκο παλμού",
           "isCorrect": true
         },
         {
-          "id": "e932bb38-91c5-4737-a162-6a0e2de5ca88",
+          "id": "c102577c-7def-4c07-bb1e-6707f794e631",
           "text": "Αυξάνει τον όγκο παλμού",
           "isCorrect": false
         },
         {
-          "id": "1a925e5d-e2f7-4fc4-8368-5ab5c2ad0b6e",
+          "id": "5cd79c61-7f2b-41a4-b959-18e5d4fa63c3",
           "text": "Αυξάνει τον όγκο αίματος",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "3178729e-2cc3-4d9d-bb05-205c9e9d4236",
+      "id": "b060bd05-9c04-44d7-b01c-fd11e58da9dc",
       "text": "27) Η θερμορύθμιση συμβαίνει:",
       "options": [
         {
-          "id": "c10a117d-ab8a-41b6-8820-e496d0341bf6",
+          "id": "b4c3f437-3a11-4cb8-8507-b0bb447beae3",
           "text": "Σε ψυχρό περιβάλλον",
           "isCorrect": false
         },
         {
-          "id": "ce0dfd6c-0512-4e27-9637-407279231c7a",
+          "id": "db9c60cc-f0a8-4715-8d23-768e4a0bed44",
           "text": "Σε θερμό περιβάλλον",
           "isCorrect": false
         },
         {
-          "id": "0633b4ab-e7c7-4110-953f-606dadad3b10",
+          "id": "d7d0506e-85ba-4fce-a19a-f3353c13895b",
           "text": "Σε ψυχρό περιβάλλον και σε θερμό περιβάλλον",
           "isCorrect": false
         },
         {
-          "id": "2075e56e-f4c0-4df3-9929-2768db86d141",
+          "id": "c59d559e-a52e-49a3-9a11-73c26c2a0239",
           "text": "Σε όλα τα περιβάλλοντα",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "f5c6ae0f-6c34-47e0-bbee-0db370529590",
+      "id": "85870b2c-6bb9-4a98-9ab8-378b84aff72c",
       "text": "28) Η χρονολογική ηλικία:",
       "options": [
         {
-          "id": "464100a6-e6eb-453c-b041-bdadbc6bd85f",
+          "id": "4c879789-1013-437b-8955-79bae454ed33",
           "text": "Εξαρτάται από την ωρίμανση",
           "isCorrect": false
         },
         {
-          "id": "b501ce09-2858-4f72-b0e9-b72d579ac0ac",
+          "id": "9cf200ce-45b1-44c3-99de-b0bc1efb584f",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": true
         },
         {
-          "id": "36f38de4-1bf2-4615-9481-642786c24beb",
+          "id": "41557a5c-321b-46f4-a459-269e23924783",
           "text": "Καθορίζεται από την βιολογική ηλικία",
           "isCorrect": false
         },
         {
-          "id": "ca11b4b0-f0f2-408a-8750-fb42307e59d9",
+          "id": "db4a08ac-4ffd-4a3c-83da-4c8cd0757044",
           "text": "Είναι ίδια με τη σκελετική",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "8a732b9a-3137-445c-8a40-1ac37313e4cf",
+      "id": "f61b3678-a927-4dc5-a649-844952f8a8ec",
       "text": "29) Η εφηβεία επιφέρει φυσιολογικές αλλαγές:",
       "options": [
         {
-          "id": "4b93bf31-2843-495a-ac1e-cfc31c9bbada",
+          "id": "e0b4e332-94cb-4639-a0a7-2645f8620e88",
           "text": "Και στα δύο φύλα",
           "isCorrect": true
         },
         {
-          "id": "91962282-872f-49cd-946b-b3927e5effb7",
+          "id": "0a96b810-fe9f-466e-9044-eeff7820304e",
           "text": "Μόνο στα κορίτσια",
           "isCorrect": false
         },
         {
-          "id": "c9d4d243-2ef7-4dec-8094-709b1456894d",
+          "id": "7ddab4e0-1c7b-40d4-92ba-ff616e0d01fe",
           "text": "Δεν θεωρείται περίοδος αλλαγών σε κανένα οργανισμό",
           "isCorrect": false
         },
         {
-          "id": "0f588eb8-4983-461d-9bed-217f220ea997",
+          "id": "1828a05e-164b-4096-8df8-1e9a30725d5e",
           "text": "Μόνο στα αγόρια",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "179ca66b-86d5-4870-a4c9-9d2d0de5c440",
+      "id": "6006f1e2-3add-4e9f-97e9-6bdf7a215e69",
       "text": "30) Τα προγράμματα άσκησης σε παιδιά:",
       "options": [
         {
-          "id": "8b20dccf-009c-4363-b007-b386019768e7",
+          "id": "a8efabff-a465-4a96-b808-25ba78de55d4",
           "text": "Δεν πρέπει να περιλαμβάνουν ασκήσεις αντιστάσεων",
           "isCorrect": false
         },
         {
-          "id": "427340b6-8420-4b5c-a953-52b11acb7e1f",
+          "id": "b2759955-bcde-45a1-8fea-7e66befc205e",
           "text": "Διαφέρουν από εκείνα των ενηλίκων",
           "isCorrect": true
         },
         {
-          "id": "537f4996-bae4-4e82-ba09-ed73bb6d44c0",
+          "id": "376784cc-b145-40ad-b201-ea42ddcc5bd2",
           "text": "Επηρεάζουν αρνητικά την ανάπτυξη των παιδιών",
           "isCorrect": false
         },
         {
-          "id": "49021c9f-6773-414a-966a-6830e3382eeb",
+          "id": "470709ca-b5aa-4505-9908-524c59612996",
           "text": "Δεν διαφέρουν από εκείνα των ενηλίκων",
           "isCorrect": false
         }

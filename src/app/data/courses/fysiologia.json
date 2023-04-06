@@ -1,626 +1,626 @@
 {
   "title": "Φυσιολογία",
-  "id": "d8b71971-f1c9-408d-bdd4-e10a87163b23",
+  "id": "3c1e3c97-62c5-48a3-98b4-9c9c0886b5c6",
   "questions": [
     {
-      "id": "403097a2-e497-4d15-9a65-d4abe1d9047f",
+      "id": "fc583dcc-f5c1-44be-a176-77f9f09f19fd",
       "text": "1) Το αυτόνομο νευρικό σύστημα διακρίνεται σε:",
       "options": [
         {
-          "id": "c924c656-4953-4fd3-8f30-420b74097488",
+          "id": "adf8cafb-faa5-488e-bbe9-3a032eae3774",
           "text": "Συμπαθητικό και Παρασυμπαθητικό",
           "isCorrect": true
         },
         {
-          "id": "48497168-0dd6-43ba-b8dd-4b7f611c3db4",
+          "id": "c171d896-3d4d-45e5-af12-534a8ea4e20e",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "aa35812c-e80c-496a-b505-1fecd5febb9b",
+          "id": "6af8492f-63bd-4ace-bae6-134e80b43ffd",
           "text": "Κεντρικό και Σωματικό",
           "isCorrect": false
         },
         {
-          "id": "5dd925a9-3dcd-40f3-983d-f7abd04728e4",
+          "id": "5451ddd4-d9e7-41bd-8bb6-47f52ac19402",
           "text": "Εγκέφαλο και Νωτιαίο μυελό",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "6a95f7d3-b71e-4f80-a499-58f58078c46d",
+      "id": "f4d69352-d957-42a9-9e05-5f3377f68023",
       "text": "2) Τι είναι ομοιόσταση;",
       "options": [
         {
-          "id": "c91e791c-d801-4ae8-9ca4-dce9c78c5cbe",
+          "id": "01bc7d96-8725-449b-acec-af92cbea3e10",
           "text": "Αλλαγή των συνθηκών περιβάλλοντος",
           "isCorrect": false
         },
         {
-          "id": "00194c1f-60dc-4bd0-8046-9069b43551b0",
+          "id": "c7696c54-9ef0-4e9f-a5d4-1b49729f9060",
           "text": "Όλες οι απαντήσεις είναι λάθος",
           "isCorrect": false
         },
         {
-          "id": "fc9915d3-65d9-40da-8371-dd13788c6130",
+          "id": "da1d7e90-c3e5-4cd6-91b0-4088cee734c4",
           "text": "Επιβάρυνση των συστημάτων του σώματος",
           "isCorrect": false
         },
         {
-          "id": "c57a6651-a6ad-42c3-b66a-c5196d4d9389",
+          "id": "56a6639a-90b2-449f-9953-7107764f28d2",
           "text": "Διατήρηση ενός σταθερού εσωτερικού περιβάλλοντος",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "55b3b188-fb2f-44e7-b5fe-3f62cbdc4bbe",
+      "id": "a5cee657-156d-4ee7-86f2-d1aef3b4e886",
       "text": "3) Παράγοντες που επηρεάζουν την ενεργειακή κατανάλωση:",
       "options": [
         {
-          "id": "969a8259-3f4f-4bf4-b394-56409189c6fd",
+          "id": "8c1f7b61-8918-40cc-81c6-339fa9eca382",
           "text": "Συμμετοχή σε άσκηση",
           "isCorrect": false
         },
         {
-          "id": "02da8256-630c-42b7-96f0-84906f23abe2",
+          "id": "6d504988-dd3e-407c-a26c-8ee15dbc334c",
           "text": "Ορμονικό σύστημα",
           "isCorrect": false
         },
         {
-          "id": "2f8b6a94-d45a-483a-a6dd-61f65cc16db8",
+          "id": "071f69a9-7805-44e3-9152-441806ec5944",
           "text": "Ηλικία",
           "isCorrect": false
         },
         {
-          "id": "0749bd16-c4ef-4aac-b1e2-cc0c003e3e0a",
+          "id": "91ad3874-96c1-4081-a3d4-87eba2e9dcf1",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "0378de7b-2ef5-49f8-b8cf-3158aa0c0001",
+      "id": "6d162a25-0968-42af-9c61-97f064c759ab",
       "text": "4) Κύριο μέρος του κυττάρου είναι :",
       "options": [
         {
-          "id": "84466863-f611-4072-94ee-fee5266fd57b",
+          "id": "54224030-157b-4f49-8cf6-8efee1c9b9b5",
           "text": "Το κυτταρόπλασμα",
           "isCorrect": false
         },
         {
-          "id": "206d6e64-85b7-4faf-bd81-5f6e7eef9f77",
+          "id": "994f8843-7ee2-4588-907e-c7bb46bdbe49",
           "text": "Ο πυρήνας",
           "isCorrect": false
         },
         {
-          "id": "3327c593-0612-4f59-810f-7371e96caebd",
+          "id": "75bf7717-4c6a-4aef-bcce-0c998ea71c20",
           "text": "Η κυτταροπλασματική μεμβράνη",
           "isCorrect": false
         },
         {
-          "id": "4f89f5e0-4f6c-4b01-9fd4-bb88b4314377",
+          "id": "9831ca27-bd7b-4cdb-977a-aaffea2566ce",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "efe0a0cc-67ef-4e23-9439-c86306491c4e",
+      "id": "9a06de94-632d-46ab-b3cd-8322636abaf4",
       "text": "5) Ποια η σωστή σειρά διέλευσης του αίματος στην Συστημική (Μεγάλη) Κυκλοφορία;",
       "options": [
         {
-          "id": "8f4abd4a-35ba-4a6a-8bee-529f4cf60aad",
+          "id": "0708eb17-7fc8-4972-ab9f-972a31b1f6b0",
           "text": "ΑΡ Κοιλία / Αορτή / Αρτηρίες / Ιστοί / Φλέβες / ‘Ανω - Κάτω κοίλη φλέβα / ΔΕ κόλπος",
           "isCorrect": true
         },
         {
-          "id": "feaf1897-4df5-4f13-a8bd-d8339b154c09",
+          "id": "67c4245d-d5d2-4d65-9cbe-f0307470974e",
           "text": "ΑΡ Κοιλία / Πνευμονική αρτηρία / Αρτηρίες / Κυψελίδες πνευμόνων / Πνευμονικές φλέβες / ΑΡ Κόλπος",
           "isCorrect": false
         },
         {
-          "id": "ce83dbbc-a89c-4555-87e6-478c4e52ec4b",
+          "id": "3ab18b4c-8d37-496f-ba05-107fc2ec0a71",
           "text": "ΔΕ Κοιλία / Πνευμόνική αρτηρία / Αρτηρίες / Κυψελίδες πνευμόνων /Πνευμονικές φλέβες / ΑΡ Κόλπος",
           "isCorrect": false
         },
         {
-          "id": "ebdb9a04-11ee-40e3-8439-9bbbefac383a",
+          "id": "bf416ca4-6325-4510-84af-5585325788ad",
           "text": "ΑΡ Κοιλία / Αορτή / Αρτηρίες / Ιστοί / Φλέβες / Άνω - Κάτω κοίλη φλέβα / ΑΡ κόλπος",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "66e3ab7a-d847-4d3b-a6ab-be50b1225e47",
+      "id": "ec55760d-f3b9-46a7-8234-fbae2f2d1223",
       "text": "6) Ποια από τα παρακάτω χαρακτηριστικά δεν ανήκει σε αρτηρίες;",
       "options": [
         {
-          "id": "1de475e6-daa4-470f-a2c7-50271c1496b3",
+          "id": "a23ccfbd-1f8e-4cc9-a9ad-7c605d2ea6b0",
           "text": "Ρεζερβουάρ πίεσης",
           "isCorrect": false
         },
         {
-          "id": "3d28c5bf-e6ec-475e-9f2d-972979ddd2ec",
+          "id": "88056a11-ffbf-454a-9594-978f4595ace7",
           "text": "Ρεζερβουάρ όγκου αίματος",
           "isCorrect": true
         },
         {
-          "id": "c392d33e-2c11-4a0d-9ec3-e03d703422e5",
+          "id": "676c6b8f-c8e2-4944-b630-57d1b45c3df5",
           "text": "Παχύ μυϊκό περίβλημα",
           "isCorrect": false
         },
         {
-          "id": "e5020a8f-7891-4762-9086-7fcfe3e320b9",
+          "id": "868270f7-83a1-4355-8ebb-0370f8507f4f",
           "text": "Μεγάλος αυλός",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "33149a38-b318-48bc-9f91-af2b48440aed",
+      "id": "e47529b9-d499-4cf1-8849-55a0ee39d852",
       "text": "7) Η λειτουργία της καρδιάς συντονίζεται από εσωτερικούς φυσικούς βηματοδότες όπως:",
       "options": [
         {
-          "id": "721b0a79-7c47-43a4-a368-c86b51284242",
+          "id": "5ee4e3f2-f0c1-4938-a801-846efc56b269",
           "text": "Ο καρωτιδικός κόλπος",
           "isCorrect": false
         },
         {
-          "id": "0f275605-3be1-4982-a9ff-fce5c2bbe19e",
+          "id": "e3cce6ee-b955-458f-9d51-a051477bfebb",
           "text": "Η αορτή",
           "isCorrect": false
         },
         {
-          "id": "4c039718-0121-45d0-94cb-584ebc42a1d6",
+          "id": "918a57ac-9a56-4361-9a1e-7b44ad7ebe9f",
           "text": "Ο φλεβόκομβος",
           "isCorrect": true
         },
         {
-          "id": "c6b6feba-b72f-4995-b8ce-0fc66a3d0f1b",
+          "id": "2cc9ac66-0050-47fd-92a8-76c3754ea5f5",
           "text": "Η αριστερή κοιλία",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "4e3160b6-5db6-4d23-b611-ad2281e5e9b4",
+      "id": "cef48c44-caf8-4de8-b655-8cadc7825df8",
       "text": "8) Διαστολική πίεση είναι:",
       "options": [
         {
-          "id": "cca44f88-3aaf-4fbb-8c5b-32285f55a57f",
+          "id": "0128faf2-bff6-468a-953c-27499ac5c299",
           "text": "Η πίεση του αίματος στα τοιχώματα των αρτηριών όταν η καρδιά διαστέλλεται",
           "isCorrect": true
         },
         {
-          "id": "f664f334-ea41-48b5-b967-ae7493522989",
+          "id": "7980749c-348f-4d11-970b-d316069117a1",
           "text": "Η διαστολή των κόλπων",
           "isCorrect": false
         },
         {
-          "id": "ed74cb87-59f5-4684-b1ff-d6d9e74d4613",
+          "id": "0a14857b-4c8d-4575-96a6-f4fbd6997bef",
           "text": "Η πίεση του αίματος στα τοιχώματα των αρτηριών, όταν η καρδιά συστέλλεται",
           "isCorrect": false
         },
         {
-          "id": "5c7693b2-cf3f-4a49-967c-ca2c8a986302",
+          "id": "22df3aa0-31c8-451f-a960-48314ad5fbf5",
           "text": "Η συστολή των κοιλιών",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "02825751-fcc5-4b83-a379-8abf570f6113",
+      "id": "ded21655-ee93-4288-be90-d85e5418ade5",
       "text": "9) Οι κολποκοιλιακές βαλβίδες της καρδιάς είναι οι:",
       "options": [
         {
-          "id": "b1bf2a08-82cd-4751-82f1-337efa9c3968",
+          "id": "3f0beac7-0846-4121-8a3c-959582abf26c",
           "text": "Τριγνώχινα - Μηνοειδής",
           "isCorrect": false
         },
         {
-          "id": "cba14fa0-8390-41a3-9264-7f8cf07e8ff5",
+          "id": "7eafd722-0581-48b8-8e9c-7fd4075a6758",
           "text": "Καρωτιδική - Μηνοειδής",
           "isCorrect": false
         },
         {
-          "id": "10ab2d99-e111-4949-b17b-2dba398b9d1e",
+          "id": "112a6158-d748-48f3-9a4c-31cbb7dad2e2",
           "text": "Τριγνώχινα - Μιτροειδής",
           "isCorrect": true
         },
         {
-          "id": "b127eff9-1762-4004-8961-fd79b214e206",
+          "id": "e0a9c1d9-c1cc-46fa-8f8a-a8f08bcfa547",
           "text": "Πνευμονική - Αορτική",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "86327eb2-b7e4-4bfe-a8d2-d883b079c817",
+      "id": "2fca0863-a8ed-4baa-b0cf-c4ef020667e3",
       "text": "10) Πνευμονικός Αερισμός δίνεται από την εξίσωση:",
       "options": [
         {
-          "id": "2aaa38e0-f657-419c-b52f-fc6abffe3b97",
+          "id": "ae762453-3d61-43fd-bc21-86c7f0774382",
           "text": "Ατμοσφαιρική πίεση x Ενδοπνευμονική πίεση",
           "isCorrect": false
         },
         {
-          "id": "bfd2136f-0fa0-4454-b8c4-a87730f40b40",
+          "id": "bbc7c5c6-ceec-43e5-b6f2-b1ed362db517",
           "text": "Συχνότητα αναπνοής x Ενδοπνευμονική πίεση",
           "isCorrect": false
         },
         {
-          "id": "cd2d4c60-1219-40d8-a00f-5fbe6cd4e991",
+          "id": "fc4c5eb4-5c71-4c65-b5fe-bbc96a4c4d82",
           "text": "Συχνότητα αναπνοής x Αναπνεόμενο όγκο αέρα",
           "isCorrect": true
         },
         {
-          "id": "c7105b68-5748-41e2-8190-3f932062c251",
+          "id": "475f25a7-a1a8-4eb7-bfb4-ca14f6ba7e1d",
           "text": "Ικανότητα εισπνοής x Ικανότητα εκπνοής",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "752f191d-f832-4b0b-ac1b-bc47830ee1bf",
+      "id": "6eef03b8-ac1d-459b-9628-e43e7de65f6f",
       "text": "11) Υπό κανονικές συνθήκες, για να μεταφερθεί το Ο2 στο σώμα, συνδέεται με την αιμοσφαιρίνη σε ποσοστό:",
       "options": [
         {
-          "id": "64708624-e954-4a85-8deb-5df830e43f3e",
+          "id": "e874a05f-e67a-451c-83da-000670027e1f",
           "text": "85%",
           "isCorrect": false
         },
         {
-          "id": "4b978369-048b-4330-b78f-458769eff35f",
+          "id": "429fb045-9263-4621-b2fb-6fd027a8af69",
           "text": "65%",
           "isCorrect": false
         },
         {
-          "id": "e189498a-a21a-47f1-9b95-321aefceaf47",
+          "id": "72c21e2e-fd42-47fd-8c65-4e1643db56f0",
           "text": "98%",
           "isCorrect": true
         },
         {
-          "id": "2aa91fc1-50e2-426d-b58c-d3164940f199",
+          "id": "69e4675b-7595-495d-85f5-73a66337aace",
           "text": "100%",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "a88e6bc9-e1d4-4820-a3ba-3dcef4cb1922",
+      "id": "dfd7070c-db71-436f-b391-e5ec67cd1253",
       "text": "12) Πόσα ζεύγη νεύρων εκφύονται από τον Νωτιαίο Μυελό;",
       "options": [
         {
-          "id": "c9a7944c-72b8-4ee2-b1bf-642b4b8c4c00",
+          "id": "637138ec-cb54-445f-ab88-541254604955",
           "text": "22",
           "isCorrect": false
         },
         {
-          "id": "8247b411-d2a0-4dca-b0dc-5c6d99a17233",
+          "id": "0b15b282-61b0-43e6-9766-9e011446d578",
           "text": "28",
           "isCorrect": false
         },
         {
-          "id": "c093907a-bfdb-4a45-bb40-6fb5bf51d6b8",
+          "id": "5fa3d415-86ed-4b84-8386-296444f42198",
           "text": "5",
           "isCorrect": false
         },
         {
-          "id": "090515b3-c3bb-42de-9ad7-66e3ec7139a6",
+          "id": "fe4f266a-8b8a-4819-956f-316dd77ce1db",
           "text": "31",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "73467a90-1752-45dc-b913-2e2ed24bf7fb",
+      "id": "034edbde-f2e1-4f59-9959-7f135447bf3b",
       "text": "13) Κύρια διαφορά μεταξύ μυοσφαιρίνης και αιμοσφαιρίνης είναι ότι:",
       "options": [
         {
-          "id": "23a532ad-ab42-4f08-b88b-4e29ac6ed893",
+          "id": "461cb94a-e049-4013-b88d-8a4c2dbd40fb",
           "text": "Η μυοσφαιρίνη έχει χαμηλότερη ικανότητα δέσμευσης Ο2",
           "isCorrect": true
         },
         {
-          "id": "c0d1759a-14ce-4a38-a892-28c450d51b08",
+          "id": "55dfa25a-f39b-4c30-8e24-a5f7c6abe0ee",
           "text": "Καμία απάντηση δεν είναι σωστή",
           "isCorrect": false
         },
         {
-          "id": "901fea54-847e-4a23-b3f9-6a4ad904ff20",
+          "id": "d7999c9d-fc5d-4160-b4a3-1e50e9d1f0a5",
           "text": "Η μυοσφαιρίνη έχει υψηλότερη ικανότητα δέσμευσης Ο2",
           "isCorrect": false
         },
         {
-          "id": "a3a587a1-1b0a-44b0-b021-33fe9d49e5d7",
+          "id": "dd2ef4d7-913e-4497-aced-dde40864ffff",
           "text": "Η αιμοσφαιρίνη έχει χαμηλότερη ικανότητα δέσμευσης Ο2",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "ef62e8ff-07ae-4767-af97-d35857e8bfd7",
+      "id": "671c816d-6878-495a-a65b-2d9fd39ae793",
       "text": "14) Το CO2 στο μεγαλύτερο ποσοστό του μεταφέρεται στους ιστούς:",
       "options": [
         {
-          "id": "a8069461-6507-4e28-acb2-0e942aafcb97",
+          "id": "8494fe86-ef6d-4a8e-a0b0-39f4b061787b",
           "text": "Σε φυσική διάλυση στο πλάσμα",
           "isCorrect": false
         },
         {
-          "id": "88729b10-e175-4fe2-9797-63a84e885262",
+          "id": "26efe09f-8427-4612-ac0d-d722a12a1239",
           "text": "Με την μορφή διττανθρακικών ιόντων",
           "isCorrect": true
         },
         {
-          "id": "9a8bd80d-5030-4017-879f-17ed2f3f37c1",
+          "id": "f309cc1d-c81e-4129-a285-a07c66fc0345",
           "text": "Συνδεδεμένο με την οξυαιμοσφαιρίνη",
           "isCorrect": false
         },
         {
-          "id": "49f254fc-2a23-431d-8c1a-6fe5b32d53e5",
+          "id": "ae21e963-a154-467f-90e2-e0ffeaf73b75",
           "text": "Συνδεδεμένο με την αιμοσφαιρίνη",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "f04c142c-ccca-4a68-9c04-fdf290c08aed",
+      "id": "d365865e-5de1-4070-8520-a3ab7572c12c",
       "text": "15) Οι κύριες θέσεις ανταλλαγής αερίων μεταξύ αέρα και αίματος είναι:",
       "options": [
         {
-          "id": "992f08f9-7102-44ae-b690-4318b841dbaa",
+          "id": "8bfdd644-2ed4-4cb4-9641-059d83098880",
           "text": "Οι κυψελίδες",
           "isCorrect": true
         },
         {
-          "id": "1179a568-f913-4f42-be30-1ad552d5ec5e",
+          "id": "48d80fd3-d716-4555-a6dc-85d3417041a4",
           "text": "Τα τελικά βρογχιόλια",
           "isCorrect": false
         },
         {
-          "id": "182d106a-b487-446e-b772-515b51f269ba",
+          "id": "8be82231-f398-4c59-9a8a-6385d212b05c",
           "text": "Τα βρογχιόλια",
           "isCorrect": false
         },
         {
-          "id": "7c67f00e-b9df-40f6-889c-0bfa6c07b0dc",
+          "id": "6a4f966e-51f2-4647-bcd0-dac7e54c3b33",
           "text": "Τα αναπνευστικά βρογχιόλια",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "08ec33b1-d493-4d71-9b78-3d117abd8729",
+      "id": "531bc26a-d867-4dcc-b62b-a91bf9917074",
       "text": "16) Μεταξύ άλλων το πάγκρεας παράγει:",
       "options": [
         {
-          "id": "7099f1b0-95dc-4d73-bf71-87fe2da5757e",
+          "id": "acbb8ebe-b4fd-412d-8f2b-49942987714b",
           "text": "Ερυθρά αιμοσφαίρια",
           "isCorrect": false
         },
         {
-          "id": "56e50ab4-4d1e-4dec-8f48-ca8d7f212e93",
+          "id": "d008bd65-5e32-438c-ad5d-2eb354d7f074",
           "text": "Την γλυκόζη",
           "isCorrect": false
         },
         {
-          "id": "991c8bbf-0de6-4ed6-8c50-c6d3feec318a",
+          "id": "fe60fb89-07fe-45f5-9681-b83f321a6760",
           "text": "Την ινσουλίνη",
           "isCorrect": true
         },
         {
-          "id": "8c04ffb3-8b6d-4ae7-a038-889ea6f76f5f",
+          "id": "5d88657b-42b2-461a-8208-136c64da84ee",
           "text": "Την αυξητική ορμόνη",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "0ad3742c-9209-449c-ae6a-4af7688ada10",
+      "id": "6f0afc3d-8240-418c-8c1a-cfc996c47073",
       "text": "17) Οι βρόγχοι είναι όργανα του:",
       "options": [
         {
-          "id": "1a6be0e6-b0a9-4e9b-acbe-6a343de4e7d2",
+          "id": "fcd3bfc8-f232-42a9-ab9e-f3d3696e6e32",
           "text": "Μυϊκού ιστού",
           "isCorrect": false
         },
         {
-          "id": "f2d08aa7-f132-49a4-b4fd-4eba1f3afa98",
+          "id": "b57ea197-c4ad-4648-9e82-52af001b3298",
           "text": "Αναπνευστικού συστήματος",
           "isCorrect": true
         },
         {
-          "id": "068d7d96-76b4-4bf6-9ae2-8b7d7fca83c6",
+          "id": "05c049df-18d4-4978-bec2-942cd9f7b4d3",
           "text": "Πεπτικού συστήματος",
           "isCorrect": false
         },
         {
-          "id": "cbec878f-1b7f-4436-bf65-00c2ab472f5c",
+          "id": "fbf4fb2d-2594-45b0-8644-b6e031b2972e",
           "text": "Μαλακού ιστού",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "78993a17-ce38-463a-916f-93a64b16c9c3",
+      "id": "6f2e41ec-a887-4900-907f-31d6875f1fc1",
       "text": "18) Το στομάχι χωρίζεται σε:",
       "options": [
         {
-          "id": "759d7a8d-07d0-4872-aca2-a2eaf8a27bb4",
+          "id": "655c87af-af29-47a4-99fc-e98da60f68aa",
           "text": "Ανιόν, εγκάρσιο, κατιόν",
           "isCorrect": false
         },
         {
-          "id": "b79586c9-84cc-483b-9204-f74da43880ce",
+          "id": "8281ace6-a510-4421-ac3f-25c6958d054f",
           "text": "Δωδεκαδάκτυλο, νήστιδα, ειλεό",
           "isCorrect": false
         },
         {
-          "id": "fe21bc1d-09d6-4890-8686-3bae40c18bd2",
+          "id": "977c0b54-349b-43f5-8445-fc1084dda9ca",
           "text": "Οισοφάγο, σώμα, πυλωρό",
           "isCorrect": false
         },
         {
-          "id": "06ba7880-4ab5-4e6c-8011-fbc7656e5987",
+          "id": "54965ff2-e7f8-4bb4-b992-aba18525baae",
           "text": "Θόλο, σώμα, πυλωρό",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "c080d253-f6bd-4464-b72e-c95ef4505160",
+      "id": "02f122a6-4be3-4572-b99f-c0c1acae9998",
       "text": "19) Η αιμάτωση της καρδιάς γίνεται από:",
       "options": [
         {
-          "id": "899098b7-e3fe-4626-bb06-6c487905b7ec",
+          "id": "15f14dda-d9aa-4912-b3ea-9c174520e40a",
           "text": "Την άνω κοίλη φλέβα",
           "isCorrect": false
         },
         {
-          "id": "0c824b72-85e7-4003-ae32-1151cf7fee7c",
+          "id": "6b0a1ff5-795b-4527-9eee-d866d24fbd60",
           "text": "Την κάτω κοίλη φλέβα",
           "isCorrect": false
         },
         {
-          "id": "5275de01-8432-41c3-9cc7-71ea87605929",
+          "id": "7c7c0620-1b57-44ac-9ded-c37fce489a1b",
           "text": "Τις στεφανιαίες αρτηρίες",
           "isCorrect": true
         },
         {
-          "id": "d866c0c1-b8a0-438a-a392-1d1b336f5ad7",
+          "id": "2be0c505-1f53-4c8b-b291-ef77ae07ab45",
           "text": "Την αορτή",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "605e3ce8-080c-4508-98a9-98ca50792b86",
+      "id": "6b1cf460-6880-4361-b489-fe5ce2305d7a",
       "text": "20) Ποια τα είδη ισοτονικής συστολής του μυός;",
       "options": [
         {
-          "id": "bd63e601-c423-402f-9240-cfb6ade48f13",
+          "id": "a458c60b-ece8-4981-b5e1-6f864ef10aba",
           "text": "Ισοτονική - ισομετρική",
           "isCorrect": false
         },
         {
-          "id": "156bac5e-3e19-45ce-b58d-0abaddbfe586",
+          "id": "7c80bed1-ee1f-4b66-98d5-447c42297ddb",
           "text": "Ισοκινητική - μειομετρική",
           "isCorrect": false
         },
         {
-          "id": "f8d5160a-7efe-4559-b378-d2072d0e8b95",
+          "id": "802ad9b3-5760-4d29-aba6-cf9017ddc10f",
           "text": "Ισομετρική - πλειομετρική",
           "isCorrect": false
         },
         {
-          "id": "9805cb12-e913-4a6d-88e8-94c9e7f4c053",
+          "id": "0d0036d3-0981-4043-8004-2412f993e432",
           "text": "Μειομετρική - πλειομετρική",
           "isCorrect": true
         }
       ]
     },
     {
-      "id": "ffc240e7-2358-46df-abd8-84150d1fa0ae",
+      "id": "71a0164b-967e-4c6c-a362-c9dba6fa2107",
       "text": "21) Η κερκίδα είναι:",
       "options": [
         {
-          "id": "ee2b8309-83a0-4c01-9f0f-6edc52a02da7",
+          "id": "428cc7b7-f210-44cc-91ab-2bd3643ca1c8",
           "text": "Οστό του άνω άκρου",
           "isCorrect": true
         },
         {
-          "id": "c85f0cba-4f64-4a31-8ed7-e5145c1e41b8",
+          "id": "98d043c8-d5a3-4fe8-b680-67514d15a9b0",
           "text": "Οστό της κεφαλής",
           "isCorrect": false
         },
         {
-          "id": "24073b84-8a9f-415d-a511-4985b32d055b",
+          "id": "a049a2f6-310b-4eab-8cab-894e6f1bc31b",
           "text": "Οστό του κάτω άκρου",
           "isCorrect": false
         },
         {
-          "id": "bee28275-8909-4dbd-82f2-81096df98b62",
+          "id": "efda85f6-3526-4fa7-9983-7bdf08527fda",
           "text": "Οστό της λεκάνης",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "e5848ab1-b5c9-406b-acb2-e704d2f70792",
+      "id": "f5432921-2270-4343-931c-96c3c9a117fd",
       "text": "22) Οι μυϊκές ίνες μπορεί να είναι:",
       "options": [
         {
-          "id": "c52ccf06-15e7-4d79-81ac-ac41f65db388",
+          "id": "1f67b18e-9f09-40d5-9f78-d79645753dbb",
           "text": "Καρδιακές",
           "isCorrect": false
         },
         {
-          "id": "12fb8497-a1cc-45fb-80b1-4e1193bdb706",
+          "id": "7c9e08e9-5ba7-451d-b7fd-7e75b2b30bf1",
           "text": "Όλες οι απαντήσεις είναι σωστές",
           "isCorrect": true
         },
         {
-          "id": "3fd8f60e-78b6-41ce-bad6-f958a8615271",
+          "id": "941e0640-5c6d-470d-a64a-e84d2d10bd4d",
           "text": "Λείες",
           "isCorrect": false
         },
         {
-          "id": "09f3427d-3c86-4f9f-8be9-e5ed3a113980",
+          "id": "5f2feaf7-5619-415a-9a96-b6fa0dd11901",
           "text": "Γραμμωτές",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "ae771aeb-2325-4926-9a4c-909f7321b49a",
+      "id": "a6dde82b-b3a4-4cf2-98a3-68de84522442",
       "text": "23) Ο μυελός των οστών είναι:",
       "options": [
         {
-          "id": "de6cc9e6-3059-4ab5-8a32-c4cc46c90319",
+          "id": "65aaa3df-eebc-4260-8f69-809225affc26",
           "text": "Ωχρός",
           "isCorrect": false
         },
         {
-          "id": "855c7b56-eba8-467f-bb23-cf2d7747172b",
+          "id": "af01c545-ed28-4600-86a6-1f9a61e79e7b",
           "text": "Ερυθρός και ωχρός",
           "isCorrect": true
         },
         {
-          "id": "aa84b99d-a2c6-49bf-81b8-0193db2d5df4",
+          "id": "20eb74e6-bf53-44c6-b4c1-bd401157cdc8",
           "text": "Καμία απάντηση δεν είναι σωστή",
           "isCorrect": false
         },
         {
-          "id": "aa033e3e-6111-4a0e-bf09-6a11e273ba0a",
+          "id": "987edce5-354b-4d78-8a87-4241e7caf9b2",
           "text": "Ερυθρός",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "eeaa2836-8545-4f4c-9994-4bea42261aae",
+      "id": "6d5820f4-5071-4c30-8fdf-f02ad9cf57c4",
       "text": "24) Τα μέρη του μυός είναι:",
       "options": [
         {
-          "id": "4edff243-8f2a-478f-bab9-4befbd5b807d",
+          "id": "242fedc6-b7ef-4eec-a51f-03731663e9d5",
           "text": "Κατάφυση - επίφυση",
           "isCorrect": false
         },
         {
-          "id": "63e5dd65-9bad-4723-b6ea-c2307e4d63d2",
+          "id": "69768aa4-9977-4812-a17d-51bff29f9edf",
           "text": "Διάφυση - επίφυση",
           "isCorrect": false
         },
         {
-          "id": "054cf731-5729-42d1-b386-60497b893ec4",
+          "id": "59e89870-34fb-42fe-8237-5d0fec92eaaa",
           "text": "Έκφυση - διάφυση",
           "isCorrect": false
         },
         {
-          "id": "e9fd7999-0c4a-450b-83c9-cc24c9d3c413",
+          "id": "a2522ada-0ff1-4744-920e-fbb7bd1eb363",
           "text": "Έκφυση - κατάφυση - γαστέρα",
           "isCorrect": true
         }
