@@ -1,91 +1,49 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import styles from './page.module.css'
+import Link from "next/link";
+import studyPic from "../../public/kung-fu-1.jpg";
+import practicePic from "../../public/kung-fu-2.jpg";
+import Image from "next/image";
 
-const inter = Inter({ subsets: ['latin'] })
+import { Card } from "./Card";
+import { PageHeader } from "../common/PageHeader";
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
+    <>
+      <PageHeader
+        title="Προετοιμασία για τις εξετάσεις"
+        subtitle="Ένας μικρός προπονητής γεννιέται 🥋"
+      />
+      <div className="flex gap-3 w-full h-full flex-col justify-start items-center md:flex-row md:items-start md:justify-center">
+        <Link href="/study" className="flex w-fit h-fit">
+          <Card
+            title="Ύλη μαθημάτων"
+            label="ΑΠΑΝΤΗΜΕΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+            description="Μελέτησε την ύλη του κάθε μαθήματος μέσα από απαντημένες ερωτήσεις"
+            image={
+              <Image
+                src={studyPic}
+                alt="Study picture"
+                className="w-full h-full object-cover"
+              />
+            }
+          />
+        </Link>
+
+        <Link href="/practice" className="flex w-fit h-fit">
+          <Card
+            title="Δοκίμασε τις γνώσεις σου"
+            label="ΤΕΣΤ ΠΡΟΟΔΟΥ"
+            description="Απάντησε στις ερωτήσεις πολλαπλής επιλογής του κάθε μαθήματος σε ανακατεμένη σειρά"
+            image={
+              <Image
+                src={practicePic}
+                alt="Practice picture"
+                className="w-full h-full object-cover"
+              />
+            }
+          />
+        </Link>
       </div>
-
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-        <div className={styles.thirteen}>
-          <Image src="/thirteen.svg" alt="13" width={40} height={31} priority />
-        </div>
-      </div>
-
-      <div className={styles.grid}>
-        <a
-          href="https://beta.nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={inter.className}>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p className={inter.className}>
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={inter.className}>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p className={inter.className}>Explore the Next.js 13 playground.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={inter.className}>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p className={inter.className}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-  )
+    </>
+  );
 }

@@ -1,0 +1,31 @@
+module.exports = {
+  transform: {
+    "^.+\\.tsx?$": "ts-jest",
+    "^.+\\.jsx?$": "babel-jest",
+    "^.+\\.js?$": "babel-jest",
+    "^.+\\.svg$": "<rootDir>/svgTransform.js",
+  },
+  moduleNameMapper: {
+    "^@/src/(.*)$": "<rootDir>/src/$1",
+  },
+  testMatch: ["**/*.test.(js|jsx|ts|tsx)"],
+  moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json", "node"],
+  collectCoverage: true,
+  collectCoverageFrom: [
+    "**/*.{ts,tsx,js,jsx}",
+    "!**/*.d.ts",
+    "!**/node_modules/**",
+    "!**/coverage/**",
+    "!**/.next/**",
+    "!**/jest.setup.js",
+  ],
+  coverageThreshold: {
+    global: {
+      branches: 90,
+      functions: 90,
+      lines: 90,
+      statements: 90,
+    },
+  },
+  transformIgnorePatterns: ["/node_modules/(?!(uuid)/)"],
+};

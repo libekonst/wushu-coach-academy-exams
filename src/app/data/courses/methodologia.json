@@ -1,0 +1,630 @@
+{
+  "title": "Μεθοδολογία Αθλητικής Έρευνας",
+  "id": "9b2986de-8153-44b1-8fbe-04ff550c7ac8",
+  "questions": [
+    {
+      "id": "ffda3233-3760-4803-8c3e-b7de46d9f82d",
+      "text": "1) Ο μέσος όρος των μετρήσεων 7, 13, 10 είναι:",
+      "options": [
+        {
+          "id": "a8a3dbf0-a5e7-49cd-9b84-9b219c15222b",
+          "text": "10",
+          "isCorrect": true
+        },
+        {
+          "id": "abcbca8d-0d47-41cb-a9b7-872344aaa3bd",
+          "text": "90",
+          "isCorrect": false
+        },
+        {
+          "id": "e51bc972-d2c4-47e1-a822-abe73e1fa361",
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "id": "12329635-15d4-4d04-8ef8-af7127a845e4",
+          "text": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "87349af8-4511-4f7f-a4cd-a5a514e30646",
+      "text": "2) Στο κεφάλαιο της εισαγωγής περιγράφω:",
+      "options": [
+        {
+          "id": "5f4809b3-7f54-44e7-a02f-dd2b4e50048c",
+          "text": "Όλη την πληροφορία που έχω",
+          "isCorrect": true
+        },
+        {
+          "id": "1d59266e-eccd-48ab-af72-ed8a45ce367e",
+          "text": "Τα αποτελέσματα της μελέτης μου",
+          "isCorrect": false
+        },
+        {
+          "id": "3ecf5465-fe5c-40c2-8a4f-94557c58d08e",
+          "text": "Τα αποτελέσματα των άλλων",
+          "isCorrect": false
+        },
+        {
+          "id": "e3530734-e096-4994-9706-bf17b3d20aaa",
+          "text": "Τους περιορισμούς",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "c98da06a-0df0-4e83-9106-7c2bf208d554",
+      "text": "3) Στην ανασκόπηση της βιβλιογραφίας",
+      "options": [
+        {
+          "id": "94a58ef6-9147-4efd-89de-1b70fa21fa21",
+          "text": "Αρχειοθετώ",
+          "isCorrect": false
+        },
+        {
+          "id": "77df70a4-c382-432e-a571-6051168e3d02",
+          "text": "Αναζητώ, αρχειοθετώ, αξιολογώ, διαβάζω",
+          "isCorrect": true
+        },
+        {
+          "id": "fc07f640-81a2-4a19-87bf-00ffb35bf7ba",
+          "text": "Αναζητώ, αρχειοθετώ",
+          "isCorrect": false
+        },
+        {
+          "id": "571ffc52-7ba5-4cb3-b9dd-9ffcc049c5de",
+          "text": "Αξιολογώ, διαβάζω",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "97cd158d-cb50-470c-9b4e-44012ce847cf",
+      "text": "4) Τα εξεταζόμενα άτομα είναι:",
+      "options": [
+        {
+          "id": "e72de427-76eb-42f0-9492-838158228c6b",
+          "text": "Οι συμμετέχοντες όλων των εργασιών που αναφέρονται στη μελέτη",
+          "isCorrect": false
+        },
+        {
+          "id": "eb27c466-2feb-447d-b306-374beae6684f",
+          "text": "Οι συγγραφείς",
+          "isCorrect": false
+        },
+        {
+          "id": "fc621283-8f95-49a2-8eb6-319efe9a65e5",
+          "text": "Οι συμμετέχοντες της μελέτης",
+          "isCorrect": true
+        },
+        {
+          "id": "8002bebf-90f1-40eb-9cf3-d9b8dfcd26ce",
+          "text": "Οι γονείς",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "c2b3a107-f434-4340-806a-8e46bc2a3813",
+      "text": "5) Τι περιέχει το δείγμα μιας μελέτης;",
+      "options": [
+        {
+          "id": "ae49b9a8-d593-40b5-93a5-93eed099e594",
+          "text": "Όλους τους συμμετέχοντες",
+          "isCorrect": true
+        },
+        {
+          "id": "f20b9cb0-a8dc-45ee-a90e-888c04fed094",
+          "text": "Επιλογή μερικών ατόμων από τα εξεταζόμενα",
+          "isCorrect": false
+        },
+        {
+          "id": "37abc1fa-7f68-42a5-9c3b-3505f107b533",
+          "text": "Αυτούς με τις πιο ακραίες τιμές",
+          "isCorrect": false
+        },
+        {
+          "id": "f759ca3d-5fb0-4fd6-bb09-3773dc692ff4",
+          "text": "Αυτούς με τις χειρότερες τιμές",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "076ba25e-a9cb-4129-bfd0-952844c5cea7",
+      "text": "6) Μπορούν τα παιδιά να κάνουν προπόνηση αντιστάσεων;",
+      "options": [
+        {
+          "id": "0b0342c4-17d2-4e3c-b722-ddfa43df8588",
+          "text": "Μετά τα 18",
+          "isCorrect": false
+        },
+        {
+          "id": "e5e502e2-b01d-4e21-9f79-2d66d258a5d1",
+          "text": "Ναι",
+          "isCorrect": true
+        },
+        {
+          "id": "c9e2e8d8-5594-4aac-918e-b45b038aafa3",
+          "text": "Εξαρτάται",
+          "isCorrect": false
+        },
+        {
+          "id": "4e988aa8-25c7-49db-bf98-809c657cfe2a",
+          "text": "Ποτέ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "b4fa45c5-e6af-4218-93ff-8115df0c3255",
+      "text": "7) Με πόσες επαναλήψεις επιτυγχάνουμε αλλαγές στην δύναμη;",
+      "options": [
+        {
+          "id": "ff73d041-1b92-4295-ade8-8aee2b2e5040",
+          "text": "1-6",
+          "isCorrect": true
+        },
+        {
+          "id": "52370745-e86a-40c7-a28d-22e02a4b9b3f",
+          "text": "8-12",
+          "isCorrect": false
+        },
+        {
+          "id": "b8116d1e-8ec7-43cf-852f-aa5dddad5521",
+          "text": "15-20",
+          "isCorrect": false
+        },
+        {
+          "id": "65dcf53a-4f72-4eca-aa2f-02cd969d3c1f",
+          "text": "Μέχρι εξάντλησης",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "016f0fcf-32ba-43a1-a806-b8e641bcbc29",
+      "text": "8) Η μεθοδολογία της έρευνας είναι:",
+      "options": [
+        {
+          "id": "73521e09-111a-4cff-8113-741b65da1fcc",
+          "text": "Επιστήμη",
+          "isCorrect": true
+        },
+        {
+          "id": "c907c894-c3bd-4b7d-9484-bc5da82b3f3f",
+          "text": "Πειράματα",
+          "isCorrect": false
+        },
+        {
+          "id": "34080d87-85da-4ba7-bdd3-96131e1404a4",
+          "text": "Συνθήκες",
+          "isCorrect": false
+        },
+        {
+          "id": "a70c2812-5d76-4d68-9dfd-987583fc1a76",
+          "text": "Ενέργειες",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "50a6486a-9564-40aa-a8f0-6f543164e0ec",
+      "text": "9) Η ερευνητική διαδικασία είναι:",
+      "options": [
+        {
+          "id": "058d28bc-dfc2-44c8-bcb9-f9e49d0f36fc",
+          "text": "Όλες οι απαντήσεις είναι σωστές",
+          "isCorrect": true
+        },
+        {
+          "id": "c8942562-efef-42fd-93d7-49ff99f992cd",
+          "text": "Προβληματισμός",
+          "isCorrect": false
+        },
+        {
+          "id": "328be051-73f2-4e67-bf1e-3cc6d6a5601f",
+          "text": "Σχέδιο – αξιοπιστία μετρήσεων",
+          "isCorrect": false
+        },
+        {
+          "id": "a3aa1d61-7d57-4dfe-bea1-0acb11800943",
+          "text": "Ανάλυση / επαλήθευση / επικύρωση δεδομένων",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bd6d7b24-46d8-430b-adc9-1e475e3e0784",
+      "text": "10) Στη συζήτηση προσπαθώ:",
+      "options": [
+        {
+          "id": "7f536df1-0aca-45a4-8e2c-ebe228e102b5",
+          "text": "Όλες οι απαντήσεις είναι σωστές",
+          "isCorrect": true
+        },
+        {
+          "id": "b74f8080-ec9a-4c1b-b511-6283b473969f",
+          "text": "Να κάνω κριτική αποτελεσμάτων",
+          "isCorrect": false
+        },
+        {
+          "id": "3ebb6ba7-b9b1-4f28-8470-50c6faa0395c",
+          "text": "Να αναφέρω περιορισμούς",
+          "isCorrect": false
+        },
+        {
+          "id": "54fb4175-d58d-41c0-ab1d-960b40fbef56",
+          "text": "Να προτείνω νέες απόψεις",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "9cd3a5da-ae6c-4abb-9faf-21242f4bdff1",
+      "text": "11) Πόσες λέξεις κλειδιά χρειάζομαι;",
+      "options": [
+        {
+          "id": "0bbb48bb-6e9b-4ea2-b408-1b123ae2d438",
+          "text": "Οκτώ",
+          "isCorrect": false
+        },
+        {
+          "id": "cab78f0f-9fa0-4cae-b76d-c2f5d1f309b8",
+          "text": "Τρείς έως πέντε",
+          "isCorrect": true
+        },
+        {
+          "id": "c3b9ad7d-db3b-45dd-b3ea-3e9c0d557478",
+          "text": "Τις κυριότερες του τίτλου",
+          "isCorrect": false
+        },
+        {
+          "id": "7e113ce0-43cb-4051-a6d7-24be20dd41ed",
+          "text": "Τρείς",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "77ce2718-8e3f-4854-a010-f367943250d1",
+      "text": "12) Η βιβλιογραφία περιέχει:",
+      "options": [
+        {
+          "id": "c9514e90-33f3-41b3-a20c-3ed40e441f6c",
+          "text": "Πληροφορίες από επιστημονικά βιβλία",
+          "isCorrect": false
+        },
+        {
+          "id": "ddfbdfab-16c9-4d0e-866a-99873b73b0d7",
+          "text": "Όλες οι απαντήσεις είναι σωστές",
+          "isCorrect": true
+        },
+        {
+          "id": "a8e0499e-d5a9-418f-a08c-4f647aa74916",
+          "text": "Απόψεις επιστημόνων σε συνέδρια",
+          "isCorrect": false
+        },
+        {
+          "id": "c0bfd6cb-6b9b-49b2-9104-044bbe2c8991",
+          "text": "Άρθρα ερευνητικών περιοδικών",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7e9be4c4-f2c4-4607-9927-e8502a40f9ea",
+      "text": "13) Η μεθοδολογία της μελέτης αφορούσε:",
+      "options": [
+        {
+          "id": "dc9f9ddf-b5bd-4f48-b4ec-351b7940f7b6",
+          "text": "Στην άδεια διεξαγωγής",
+          "isCorrect": false
+        },
+        {
+          "id": "381e8c87-7be2-4a1c-91df-0550c2ba1570",
+          "text": "Στο δείγμα",
+          "isCorrect": false
+        },
+        {
+          "id": "ffb43d88-590f-4fe5-aa68-b160880d41dd",
+          "text": "Όλες οι απαντήσεις είναι σωστές",
+          "isCorrect": true
+        },
+        {
+          "id": "8f217353-6731-4dc2-88d1-afde2716cc9e",
+          "text": "Στην διαδικασία του πειράματος",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5ac61434-044e-45c0-ac12-5cad190b7636",
+      "text": "14) Τι σημαίνουν οι αστερίσκοι σε έναν πίνακα;",
+      "options": [
+        {
+          "id": "2aabf998-b0da-492f-a34b-dd9b2bcad720",
+          "text": "Σπουδαιότητα",
+          "isCorrect": false
+        },
+        {
+          "id": "ecc8347d-a83f-417d-8684-bd9240d59ec3",
+          "text": "Στατιστική σημαντικότητα",
+          "isCorrect": true
+        },
+        {
+          "id": "24ddbd48-67bd-4f01-ab27-55ad148594a3",
+          "text": "Τις ζώνες των αθλητών",
+          "isCorrect": false
+        },
+        {
+          "id": "52d45828-3b2d-4608-9859-3988e25751be",
+          "text": "Δεύτερη ερμηνεία",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4801dd27-287c-4ff9-8a74-2b88dd35ee04",
+      "text": "15) Ο πίνακας 1 μας δείχνει:",
+      "options": [
+        {
+          "id": "8f2ab6d3-a894-48c4-b4d2-66cc86c8000f",
+          "text": "Τις διαφορές στην πειραματική ομάδα",
+          "isCorrect": false
+        },
+        {
+          "id": "d674d066-defb-470f-b150-7bcda0aa0339",
+          "text": "Τις διαφορές σε διάφορους παραμέτρους",
+          "isCorrect": false
+        },
+        {
+          "id": "bf6e1ddd-aaaf-4967-a426-44f41d06045a",
+          "text": "Όλες οι απαντήσεις είναι σωστές",
+          "isCorrect": true
+        },
+        {
+          "id": "e81c3a89-8dca-4cd4-98e8-65bebc88da41",
+          "text": "Τις διαφορές στην ομάδα ελέγχου",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "81b31412-dd1a-43a0-8f02-ffa5bc67635d",
+      "text": "16) Τι σημαίνει ποσοστιαία διαφορά:",
+      "options": [
+        {
+          "id": "cf494e4a-1615-4a39-8aee-4de61ac1a463",
+          "text": "Η αύξηση επί της 100",
+          "isCorrect": false
+        },
+        {
+          "id": "04e4661c-26bd-44e9-a791-f4fbec4ffde8",
+          "text": "Η μείωση επί της 100",
+          "isCorrect": false
+        },
+        {
+          "id": "dc86bcd8-83ec-4ee4-b7fe-384c1bbc6217",
+          "text": "Η έλλειψη διαφορών επί της 100",
+          "isCorrect": false
+        },
+        {
+          "id": "ef5f1c43-0fcb-403b-bd2a-43d40c79239d",
+          "text": "Η διαφορά επί της 100",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bc51e08c-5858-4020-b633-568d556480ba",
+      "text": "17) Ένας πίνακας πρέπει να είναι:",
+      "options": [
+        {
+          "id": "3bcbcbb2-606d-48c6-a9c5-b16e0be2e527",
+          "text": "Κατανοητός",
+          "isCorrect": false
+        },
+        {
+          "id": "56943598-ae90-4ad7-9365-9404c138de27",
+          "text": "Πληροφοριακός",
+          "isCorrect": false
+        },
+        {
+          "id": "99fe1c70-41ce-4c17-9d9f-0e2be21901ea",
+          "text": "Όλες οι απαντήσεις είναι σωστές",
+          "isCorrect": true
+        },
+        {
+          "id": "2e1fccb2-df6c-48b9-bff8-fa5268363b1f",
+          "text": "Σύντομος",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "94e4241b-49f6-4f12-b29e-b5dbc748e137",
+      "text": "18) Τι σημαίνει ο αριθμός μετά από μια συγγραφική ομάδα;",
+      "options": [
+        {
+          "id": "b57645ce-edc0-4799-8be7-a394393eda70",
+          "text": "Το σύνολο των εργασιών της ομάδας",
+          "isCorrect": false
+        },
+        {
+          "id": "e4d41f66-5d20-4247-962e-471c3bd204c1",
+          "text": "Οι αναδημοσιεύσεις του άρθρου",
+          "isCorrect": false
+        },
+        {
+          "id": "3c0f7f80-f7bb-4f6a-aee7-1261d24dedc4",
+          "text": "Ο αριθμός της παραπομπής",
+          "isCorrect": true
+        },
+        {
+          "id": "ec81486d-fc5e-49af-ab7b-7065099af23f",
+          "text": "Πόσοι ήταν τα εξεταζόμενα άτομα",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6879f447-f545-4f90-b04f-1ac6bcadc21a",
+      "text": "19) Πόσα άρθρα φτάνουν για μια διπλωματική εργασία;",
+      "options": [
+        {
+          "id": "06cd1ca3-c28b-4967-8450-caf8ed93c0d5",
+          "text": "2–3",
+          "isCorrect": false
+        },
+        {
+          "id": "4c9d43e0-cf2c-44a6-8933-f3103437fd3b",
+          "text": "Όσα απαιτούνται για την επιστημονική παρουσίαση σύμφωνα με τις αρχές της μεθολογίας της έρευνας",
+          "isCorrect": true
+        },
+        {
+          "id": "760820bb-13c4-4f7e-9e49-1125f77a957b",
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "id": "ee21a763-b291-4423-b080-9a5f1f52804f",
+          "text": "80",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "050904c9-a45a-4b5c-ae7d-a4e51506e653",
+      "text": "20) Πλαγιαρισμός – λογοκλοπή:",
+      "options": [
+        {
+          "id": "fee6a62f-1ffb-490c-9aba-5032e46231c4",
+          "text": "Η χρήση της βιβλιογραφίας μιας μελέτης",
+          "isCorrect": false
+        },
+        {
+          "id": "2cac8407-3be5-4f7b-a470-fe08a6441bb5",
+          "text": "Η οικοιοποίηση λόγων και ιδεών",
+          "isCorrect": true
+        },
+        {
+          "id": "197be3b4-27e0-46ae-a1ec-913dfc7833cf",
+          "text": "Η αναφορά μιας μελέτης",
+          "isCorrect": false
+        },
+        {
+          "id": "2c4f0070-2e10-4757-8c4b-377bb47b53af",
+          "text": "Η αντιγραφή της δομής μιας μελέτης",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "648334b1-de4e-4855-a121-e8223cac0ae0",
+      "text": "21) Η μέση τιμή είναι:",
+      "options": [
+        {
+          "id": "31295ab4-a6e0-4813-8e7a-bbb9b1ff3445",
+          "text": "Η καλή κατανομή του δείγματος",
+          "isCorrect": false
+        },
+        {
+          "id": "e240a536-a368-465b-93c6-fc24fd1a548f",
+          "text": "Το άθροισμα των τιμών δια του αριθμού των αριθμών συλλογής",
+          "isCorrect": true
+        },
+        {
+          "id": "7e2346a7-893c-4e2e-a544-9a43be5873b6",
+          "text": "Η τυπική απόκλιση των τιμών",
+          "isCorrect": false
+        },
+        {
+          "id": "981df214-286d-437e-bffd-86685a7ee5d6",
+          "text": "Το εύρος των τιμών των δεδομένων",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "50d91556-2d78-4523-8b5e-2dabe6b365b0",
+      "text": "22) Χρησιμοποιώ φωτογραφίες;",
+      "options": [
+        {
+          "id": "bed295be-0ced-42cd-b950-f3a7243c1e85",
+          "text": "Από ερευνητικά περιοδικά",
+          "isCorrect": false
+        },
+        {
+          "id": "6ddaa463-9a7c-4f62-ba77-07eb54221896",
+          "text": "Μετά από άδεια του δημιουργού",
+          "isCorrect": true
+        },
+        {
+          "id": "f3535e10-3819-445b-80f8-7ac3943915fc",
+          "text": "Ποτέ",
+          "isCorrect": false
+        },
+        {
+          "id": "ae6ce0de-3165-4647-8931-02deabcd14eb",
+          "text": "Από το διαδίκτυο",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4bb8eab0-f527-49d9-a3ab-9bdfc85b1a06",
+      "text": "23) Πόσα άτομα θεωρούνται επαρκή για την ολοκλήρωση μιας μελέτης;",
+      "options": [
+        {
+          "id": "06866955-d21c-4382-b89e-53277dca794c",
+          "text": "Όσα υποδεικνύονται από τον έλεγχο ισχύος της μελέτης",
+          "isCorrect": true
+        },
+        {
+          "id": "4481fb23-f347-4501-8f73-805ac40de2a9",
+          "text": "Όσα απαιτούνται για να επιβεβαιώσω το σκοπό",
+          "isCorrect": false
+        },
+        {
+          "id": "96bba799-0f64-4e45-b055-73c02bf3bed8",
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "id": "9d292dcb-ff62-412a-b7d1-d45a5c43938f",
+          "text": "7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "f7d3d8d5-363b-421f-83c3-580f3fb87fe4",
+      "text": "24) Πλαγιαρισμός:",
+      "options": [
+        {
+          "id": "101c700e-b4be-4cd0-945e-bb5e0f0fa27d",
+          "text": "Επιτρέπεται κατόπιν αδείας από το περιοδικό",
+          "isCorrect": false
+        },
+        {
+          "id": "b9af740f-037e-49a6-8f4c-37e8e39d254d",
+          "text": "Επιτρέπεται",
+          "isCorrect": false
+        },
+        {
+          "id": "57467e2e-e147-41a3-9d57-4c1f23096e85",
+          "text": "Επιτρέπεται υπό συνθήκες",
+          "isCorrect": false
+        },
+        {
+          "id": "942e3c71-163b-4aec-a445-d96cc0429204",
+          "text": "Απαγορεύεται – τιμωρείται",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
